@@ -1,7 +1,7 @@
 <h1 align="center">Hello Guys!! </h1>
 <h3>WHO AM I?</h3>
 <p align="center">Hi 👋, I'm Android Developer || React Full Stack Developer || Backend Developer(Express/Node)</p>
-
+<h3> Resume : <h3> <a href="https://resume.io/r/gIgo4V7wS" >Click here</a>
 <h3 align="center">A passionate full stack developer and java Developer/Coder/Debugger/ANDROID DEVELOPER(JAVA) from India</h3>
 <img src="https://img.shields.io/badge/-Full stack%20Developer-blue?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Frontend%20 AngularJS Developer-red?&style=for-the-badge"/>  <img src="https://img.shields.io/badge/-Java%20Developer-yellow?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Backend Developer-green?&style=for-the-badge"/>
 <!-- <img src="https://img.shields.io/badge/-DataStructures & Algorithms-green?&style=for-the-badge"/> -->
